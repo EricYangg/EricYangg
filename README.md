@@ -83,9 +83,3 @@ SpaceX Falcon 9 landing success prediction. Full pipeline including the SpaceX A
 
 [Repo](https://github.com/EricYangg/IBM-Applied-Data-Science-Capstone)
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricYangg&show_icons=true&hide_border=true&theme=default" alt="Eric's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricYangg&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
